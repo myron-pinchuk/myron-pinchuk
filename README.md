@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Myron
+   ## Hi there 👋   I'm Myron
+
+
 
 ## About Me:
 
@@ -7,6 +9,8 @@
 👯 I’m open to work and collaborations
 
 📫 You can reach me via mironpinchukwork@gmail.com
+
+
 
 
 ## 💻 Tech Stack:
